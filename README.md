@@ -4,7 +4,7 @@ naturally we are limited to what VR provides so we cant train your nose - but we
 
 this singleplayer game will be developed for the popular headset - Occulus Rift.
 
-For further details see [Formal Elements](https://github.com/HolyTrie/Dark-Times-In-Sherwood/blob/main/formal-elements.md)
+For further details see [Formal Elements](https://github.com/HolyTrie/Chef-Academy/blob/main/formal-elements.md)
 
 
 Prompt: Cooking point of view, with many ingredients laying around, and a humans arm holding a knife. </br>
