@@ -5,39 +5,36 @@ Welcome to 'Chef Academy' where we teach EVERYONE how to become superstar chefs!
 in this VR experience you will learn many aspects of cooking, such as knife skills, timing, measuring and many more exciting skills - so what are you waiting for? </br>
 pick up the headset and come join our Masterclass.
 
-## מהות המשחק
 
-תארו את הרעיון המרכזי של המשחק שלכם
-(concept) 
-בשלושה-ארבעה משפטים.
-
-לאיזה פלטפורמה מיועד המשחק שלכם (כגון: מחשב רגיל / טלפון נייד / אינטרנט)?
-
-שימו כאן ציור-מסך המתאר את המשחק כפי שאתם רואים אותו בדמיון שלכם.
+## About the game
+Chef Academy is a VR experience which sets out to teach players usefull kitchen skills, without ever stepping in one. </br>
+naturally we are limited to what VR provides so we cant train your nose - but we can train many other usefull skills, and help train the player to prepare various different dishes from wildly diffrent styles of cooking, these will require precision and patience to master in real life, but our game will ease you into it because learning is most effective when it's fun!
+</br></br>
+this singleplayer game will be developed for the popular headset - Occulus Rift.
 
 ---
 
 
-## רכיבים רשמיים
+## Formal Elements
 
 ענו על השאלות הבאות לגבי הרכיבים הרשמיים של המשחק
 (החליפו את הטקסט של השאלות בתשובות שלכם).
 
 המחישו את התשובות שלכם בעזרת ציורי-מסך.
 
-### 1. שחקנים
+### 1. Player
 
 * לאילו שחקנים מיועד המשחק שלכם (איזה גילים / רמת כישרון / רמת ניסיון / תחומי עניין)?
 * לכמה שחקנים מיועד המשחק?
 * מה יהיו דפוסי האינטראקציה בין השחקנים (שיתופי / תחרותי)?
 
-### 2. יעדים
+### 2. Goals
 
 * מה הם היעדים שהשחקן צריך להשיג כדי לנצח במשחק?
 * איך המשחק יודיע לשחקן את היעדים שלו? 
 
 
-### 3. תהליכים
+### 3. Processes
 
 תארו בפירוט את:
 
@@ -48,14 +45,14 @@ pick up the headset and come join our Masterclass.
 
 איך השחקן ילמד על התהליכים? 
 
-### 4. חוקים
+### 4. Rules
 
 * איזה חוקים יגבילו את פעולות השחקן במשחק?
 * לפי איזה חוקים ייקבעו תוצאות של פעולות במשחק?
 * איך השחקן ילמד את חוקי המשחק?
 
 
-### 5. משאבים
+### 5. Resources
 
 * מה יהיו המשאבים במשחק?
 * איך המשאבים הללו יועילו לשחקן?
@@ -63,7 +60,7 @@ pick up the headset and come join our Masterclass.
 * איך עיצוב המשחק יגרום לכך שהמשאבים יהיו נדירים (שלא יהיה קל מדי להשיג אותם)?
 * איך המשחק יודיע לשחקן מה הם המשאבים במשחק, וכמה משאבים יש לו בכל רגע?
 
-### 6. עימותים
+### 6. Conflicts
 
 מה יהיו העימותים המרכזיים במשחק:
 
@@ -72,7 +69,7 @@ pick up the headset and come join our Masterclass.
 * בין השחקן לעצמו (דילמות)? 
 
 
-### 7. גבולות
+### 7. Boundaries
 
 מה יהיו הגבולות של עולם המשחק? האם העולם יהיה - 
 * סגור או פתוח?
@@ -83,7 +80,7 @@ pick up the headset and come join our Masterclass.
  הסבירו איך המפה שלכם מקיימת את עקרונות התיכנון: משמעות, ניידות, התמצאות, עניין, והכוונה.
 
 
-### 8. תוצאות
+### 8. Results
 
 * כמה תוצאות אפשריות יהיו למשחק, ומה הן יהיו? 
 * עד כמה התוצאה תלויה במזל לעומת כישרון? 
@@ -91,7 +88,7 @@ pick up the headset and come join our Masterclass.
 
 ---
 
-## סקר שוק
+## Market Survey
 
 לפני שמתחילים לעבוד על משחק (או כל מוצר אחר), חשוב לוודא שלא עשו את זה קודם. לא נעים לעבוד סמסטר שלם (או שנה שלמה) על משחק ואז לגלות שכבר יש משחק כזה. 
 
