@@ -23,16 +23,13 @@ this singleplayer game will be developed for the popular headset - Occulus Rift.
 המחישו את התשובות שלכם בעזרת ציורי-מסך.
 
 ### 1. Player
-
-* לאילו שחקנים מיועד המשחק שלכם (איזה גילים / רמת כישרון / רמת ניסיון / תחומי עניין)?
-* לכמה שחקנים מיועד המשחק?
-* מה יהיו דפוסי האינטראקציה בין השחקנים (שיתופי / תחרותי)?
+* The game is intended to handhold a single player throughout the entire cooking process of easy to complex recipes, and is intended for all ages so long as they can support the vr headset and use it effectively, and naturally will attempt to attract players with a passion for cooking or learning new things.
 
 ### 2. Goals
-
-* מה הם היעדים שהשחקן צריך להשיג כדי לנצח במשחק?
-* איך המשחק יודיע לשחקן את היעדים שלו? 
-
+* The game will have several training levels which focus on specific skills - these are the starter goal for any beginner chef but can be skipped.
+* Players who completed or skipped the training levels will be able to choose a recipe and cook it from start to finish, this can be repeated any number of times with 3 varying levels of difficulty, and 3-start scoring system to rate final products
+* the only 'long term' goal of the game is to teach players recipes and skills, and leave them with fond memories.
+* the game will explain this to the player via text, or if the player ignores that then he will learn by trial and error.
 
 ### 3. Processes
 
