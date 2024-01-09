@@ -1,8 +1,9 @@
 <div dir='rtl' lang='he'>
 
-# כותרת ראשית: שם המשחק
-
-**tagline: משפט שיווקי קצר וקליט המתאר את המשחק**
+# Chef Academy
+Welcome to 'Chef Academy' where we teach EVERYONE how to become superstar chefs! </br>
+in this VR experience you will learn many aspects of cooking, such as knife skills, timing, measuring and many more exciting skills - so what are you waiting for? </br>
+pick up the headset and come join our Masterclass.
 
 ## מהות המשחק
 
