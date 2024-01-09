@@ -43,30 +43,15 @@ this singleplayer game will be developed for the popular headset - Occulus Rift.
 * note: you could think of tools as resources but maintaining those is out of scope for this game!
 
 ### 6. Conflicts
-
-מה יהיו העימותים המרכזיים במשחק:
-
-* בין השחקן למערכת (מכשולים),
-* בין השחקן לשחקנים אחרים (יריבים),
-* בין השחקן לעצמו (דילמות)? 
-
+* The game will feature time sensitive trials which are only for certain recipes and may vary in difficulty, and keeping an organized kitchen will easily become a challenge for a new chef.
+* there are no opponents or dilemmas for the palyer as we only want him to leanr and have fun - with obstacles being only realistic things that players will probably face in a real kitchen, and have to do more with their cooking skills then any 'unrelated' obstacle.
 
 ### 7. Boundaries
-
-מה יהיו הגבולות של עולם המשחק? האם העולם יהיה - 
-* סגור או פתוח?
-*  עגול או שטוח? 
-
- איך המשחק יראה לשחקן את הגבולות? 
- 
- הסבירו איך המפה שלכם מקיימת את עקרונות התיכנון: משמעות, ניידות, התמצאות, עניין, והכוונה.
-
+* the game will consist of a Menu and a Kitchen scenario, the Kitchen allows the player some freedom but both are closed and quite flat, as the kitchen only allows the player to move around inside it to cook recipes, players will know they cant leave it by trial and error.
+* this makes it clear to the player that the kitchen is where the game is played and he only needs to figure his way around it.
 
 ### 8. Results
-
-* כמה תוצאות אפשריות יהיו למשחק, ומה הן יהיו? 
-* עד כמה התוצאה תלויה במזל לעומת כישרון? 
-* האם המשחק יהיה "סכום אפס", שיתופי, או מורכב?
+* every training/cooking level will feature 0-3 star results, 0 for a failed product, 1 for a successful but no so great product, 2 for a successful and really good product, and 3 is for a 'Chef' level product, these resuls are unrelated to the levels difficulty - only to the quality and precision of the entire cooking process for a specific dish (so skill based). 
 
 ---
 
