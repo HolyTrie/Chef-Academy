@@ -56,20 +56,11 @@ this singleplayer game will be developed for the popular headset - Occulus Rift.
 ---
 
 ## Market Survey
-[Cook-Out](https://store.steampowered.com/app/1523720/CookOut/) </br>
-[Cooking Simulator VR](https://store.steampowered.com/app/1358140/Cooking_Simulator_VR/) </br>
-[Clash of Chefs VR](https://store.steampowered.com/app/960040/Clash_of_Chefs_VR/) </br>
-לפני שמתחילים לעבוד על משחק (או כל מוצר אחר), חשוב לוודא שלא עשו את זה קודם. לא נעים לעבוד סמסטר שלם (או שנה שלמה) על משחק ואז לגלות שכבר יש משחק כזה. 
+[Cook-Out](https://store.steampowered.com/app/1523720/CookOut/) - a single player or Co-Op cooking experience</br>
+[Cooking Simulator VR](https://store.steampowered.com/app/1358140/Cooking_Simulator_VR/) - a single player game - with a VERY similar idea...</br>
+[Clash of Chefs VR](https://store.steampowered.com/app/960040/Clash_of_Chefs_VR/) - a PvP cooking battle.</br>
 
-חפשו בגוגל, בחנות play, בפייסבוק, ובכל מקום אחר שיש לכם גישה אליו, משחקים דומים לרעיון שלכם. ציינו באיזה ביטויי-חיפוש השתמשתם.
-
-זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
-
-* שימו קישור וצילום-מסך להמחשה.
-* הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
-
-מבין הרכיבים הרשמיים, 
-איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק?
-
-
+Our direct competitor would be Cooking Simulator VR - this game was originally a PC game, so our focus should be improving on VR specific interactions and setting a diffrent stylistic theme to set us apart from this game, as the ideas are quite similar, the other 2 games are quite similar in that they focus on the multiplayer aspect and have a more cartoony and easygoing style to them, so we should avoid adding co-op and instead draw inspiration from their style.
+</br></br>
+out of all these formal elements the one that we have to focus on is the processes part - the main game loop should be simple and fun - but educative, and doing this right will give us an edge against competitors.
 </div>
