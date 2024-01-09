@@ -17,11 +17,6 @@ this singleplayer game will be developed for the popular headset - Occulus Rift.
 
 ## Formal Elements
 
-ענו על השאלות הבאות לגבי הרכיבים הרשמיים של המשחק
-(החליפו את הטקסט של השאלות בתשובות שלכם).
-
-המחישו את התשובות שלכם בעזרת ציורי-מסך.
-
 ### 1. Player
 * The game is intended to handhold a single player throughout the entire cooking process of easy to complex recipes, and is intended for all ages so long as they can support the vr headset and use it effectively, and naturally will attempt to attract players with a passion for cooking or learning new things.
 
@@ -32,30 +27,20 @@ this singleplayer game will be developed for the popular headset - Occulus Rift.
 * the game will explain this to the player via text, or if the player ignores that then he will learn by trial and error.
 
 ### 3. Processes
-
-תארו בפירוט את:
-
-* תהליך ההתחלה של המשחק - שלושים השניות הראשונות (זה הזמן ששחקן ממוצע, שייתקל במשחק שלכם באינטרנט, ישחק בו לפני שיחליט אם להמשיך או לא. מה תעשו כדי לגרום לו להישאר?);
-*	תהליך הליבה של המשחק – רצף-הפעולות שהשחקן מבצע שוב ושוב על-מנת להתקדם במשחק.
-*	תהליך הסיום של המשחק – הפעולות שהשחקן מבצע כדי לנצח / לסיים את המשחק.
-לגבי כל תהליך, ענו על השאלות: "מי עושה מה, איפה, מתי, ואיך?".  תארו באיזה פקדים השחקן ישתמש (עכבר / מקלדת / מגע), ומה יקרה במשחק כתוצאה מכך.
-
-איך השחקן ילמד על התהליכים? 
+* Intro - the player will receive their acceptance letter to 'Chef Academy' which will also whimsically explain the basic rules and goals of the game and will be offered to pick a trainin level or a recipe level to procee.d
+* The game loop consists of picking a recipe in the Menu to cook and a difficulty level, which will throw the player into the Kitchen, with all ingredients in their correct place (fridge, pantry, etc...), this kitchen comes fully operational with all the things required to make the recipe, and the player is expected to follow said recipe along until he prepares the final product - at which point he can either try again or submit it for review, this ends the 'level' and rates his product.
+* each level will consist of recipe specific actions, all of which are basic - such as cutting, basting, poking, rolling, etc... - these are only available during the Kitchen scenario.
+* all of these controls will be tied to the 'joysticks' that come with a VR headset.
 
 ### 4. Rules
-
-* איזה חוקים יגבילו את פעולות השחקן במשחק?
-* לפי איזה חוקים ייקבעו תוצאות של פעולות במשחק?
-* איך השחקן ילמד את חוקי המשחק?
-
+* The Menu only allows to change settings for the game and picking a level/recipe to cook.
+* While in the Kitchen, every tool has its own 'rule' of how it works - players learn this via trial and error or by playing the practice levels.
+  for example - knives can only be used a certain way, on a cutting board, and for specific food stuffs.
 
 ### 5. Resources
-
-* מה יהיו המשאבים במשחק?
-* איך המשאבים הללו יועילו לשחקן?
-* איך השחקן יוכל להשיג משאבים?
-* איך עיצוב המשחק יגרום לכך שהמשאבים יהיו נדירים (שלא יהיה קל מדי להשיג אותם)?
-* איך המשחק יודיע לשחקן מה הם המשאבים במשחק, וכמה משאבים יש לו בכל רגע?
+* The only resources in the game are ingredients, these will be unlimited for easy levels, plentiful but limited in medium levels, and just enough to make it in hard levels.
+* this really only influences the difficulty scaling, and other then challenge there is no reason to limit this resource anyway.
+* note: you could think of tools as resources but maintaining those is out of scope for this game!
 
 ### 6. Conflicts
 
