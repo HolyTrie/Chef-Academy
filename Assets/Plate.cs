@@ -6,6 +6,7 @@ public class Plate : MonoBehaviour
 {
     private GameObject obj;
     [SerializeField] private float dishJudgeDelay = 1f;
+    [SerializeField][Range(0,1)] private float acceptableCookedPercentage = 0.9f;
     private Collider2D _collider;
     private bool Clicking{get{return GameManager.Clicking;} set{GameManager.Clicking = value;}}
 
@@ -30,11 +31,14 @@ public class Plate : MonoBehaviour
     {
         
         yield return new WaitForSeconds(dishJudgeDelay);
-        bool cooked = obj.GetComponent<Image>().color == Color.white;
-        string msg = new("It's not cooked perfectly, but you can try again!");
-        if(cooked)
+        var col = obj.GetComponent<Image>().color;
+        Debug.Log(col);
+        bool cooked = (col.r >= acceptableCookedPercentage) && (col.g >= acceptableCookedPercentage) && (col.b >= acceptableCookedPercentage);
+        // comparing by obj.GetComponent<Image>().color == color.white produced undesired result.
+        string msg = "It's cooked to perfection! Well done!";
+        if(!cooked)
         {
-            msg = "It's cooked to perfection! Well done!";
+            msg = "It's not cooked perfectly, but you can try again!";
         }
         GameObject.FindGameObjectWithTag("MainCamera").GetComponent<SceneController>().DisplaySceneEndMsg(msg);
     }

@@ -1,4 +1,3 @@
-using UnityEditor.SearchService;
 using UnityEngine;
 //this class auto-adds itself to the game as a singleton - https://gist.github.com/kurtdekker/775bb97614047072f7004d6fb9ccce30
 public sealed class GameManager : MonoBehaviour 
