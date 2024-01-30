@@ -10,6 +10,7 @@ TagManager:
   - Plate
   - RawEgg
   - Canvas
+  - GameOver
   layers:
   - Default
   - TransparentFX

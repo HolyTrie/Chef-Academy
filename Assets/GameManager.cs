@@ -1,11 +1,10 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
+using UnityEditor.SearchService;
 using UnityEngine;
-//auto-created singleton class - https://gist.github.com/kurtdekker/775bb97614047072f7004d6fb9ccce30
+//this class auto-adds itself to the game as a singleton - https://gist.github.com/kurtdekker/775bb97614047072f7004d6fb9ccce30
 public sealed class GameManager : MonoBehaviour 
 {
     // !!!!!! DO NOT PUT THIS IN ANY SCENE; this code auto-instantiates itself once.
+	// note for this project - canvas is for ui only and wont work with physics, src: https://forum.unity.com/threads/ui-image-box-collider.296278/
     private static GameManager _Instance;
 	public static GameManager Instance
 	{
@@ -30,15 +29,10 @@ public sealed class GameManager : MonoBehaviour
 		set
 		{
 			_isStoveOn = value;
-			Debug.Log("IsStoveOn = "+value);
+			//Debug.Log("IsStoveOn = "+value);
 		}
 	}
 
 	private static bool _clicking;
     public static bool Clicking { get{return _clicking;} internal set{_clicking = value;} }
-
-    internal static void StartEndSequence(GameObject obj)
-    {
-        Debug.Log(obj.name+"Is cooked to perfection!");
-    }
 }

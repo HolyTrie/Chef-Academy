@@ -125,12 +125,12 @@ public class Skillet : MonoBehaviour
     }
 
     private void OnTriggerEnter2D(Collider2D other) {
-        Debug.Log("Skillet trigger with "+other.transform.name);
+        //Debug.Log("Skillet trigger with "+other.transform.name);
         if(other.gameObject.CompareTag("Heat"))
         {
             if(GameManager.IsStoveOn)
             {
-                Debug.Log("Attaching to Heat Source!");
+                //Debug.Log("Attaching to Heat Source!");
                 AttachToHeat(other);
             }
         }
@@ -138,7 +138,7 @@ public class Skillet : MonoBehaviour
         {
             if(GameManager.IsStoveOn)
             {
-                Debug.Log("Attaching Egg object to skillet!");
+                //Debug.Log("Attaching Egg object to skillet!");
                 var obj = other.transform.GetComponent<Egg>().m_objectToSpawn;
                 AttachToSkillet(obj,other.transform.position);
             }

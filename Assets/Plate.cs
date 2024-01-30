@@ -1,11 +1,11 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Plate : MonoBehaviour
 {
     private GameObject obj;
-    [SerializeField] private float dishJudgeDelay = 3f;
+    [SerializeField] private float dishJudgeDelay = 1f;
     private Collider2D _collider;
     private bool Clicking{get{return GameManager.Clicking;} set{GameManager.Clicking = value;}}
 
@@ -28,12 +28,19 @@ public class Plate : MonoBehaviour
 
     IEnumerator JudgeItem()
     {
+        
         yield return new WaitForSeconds(dishJudgeDelay);
-        GameManager.StartEndSequence(obj);
+        bool cooked = obj.GetComponent<Image>().color == Color.white;
+        string msg = new("It's not cooked perfectly, but you can try again!");
+        if(cooked)
+        {
+            msg = "It's cooked to perfection! Well done!";
+        }
+        GameObject.FindGameObjectWithTag("MainCamera").GetComponent<SceneController>().DisplaySceneEndMsg(msg);
     }
     
     private void OnTriggerEnter2D(Collider2D other) {
-        Debug.Log(other.gameObject.name);
+        //Debug.Log(other.gameObject.name);
         if(other.gameObject.CompareTag("Skillet"))
         {
             var skillet = other.gameObject.GetComponent<Skillet>(); 

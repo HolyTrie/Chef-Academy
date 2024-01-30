@@ -8,12 +8,11 @@ public class Egg : MonoBehaviour
     [SerializeField] private Transform graphic;
     public GameObject m_objectToSpawn;
     private Collider2D hitbox;
-    private Image _image;
+    public Image Image {get{return graphic.transform.GetComponent<Image>();}}
     private Vector2 pos;
     private bool clicking = false;
     void Start()
     {
-        _image = graphic.transform.GetComponent<Image>();
         hitbox = GetComponent<Collider2D>();
         pos = startPosition.position;
         transform.position = pos;
@@ -51,7 +50,7 @@ public class Egg : MonoBehaviour
     }
     private void PlaceOnSkillet()
     {
-        Debug.Log("Destroying Egg");
+        //Debug.Log("Destroying Egg");
         Destroy(this.gameObject);
     }
 
